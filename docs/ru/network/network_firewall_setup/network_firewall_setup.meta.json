@@ -1,0 +1,16 @@
+{
+  "title": "Настройки firewall",
+  "shortDescription": "",
+  "metaDescription": "Настройки firewall",
+  "sectionTitle": "Настройки firewall",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

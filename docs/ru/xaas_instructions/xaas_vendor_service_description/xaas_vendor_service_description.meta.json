@@ -1,0 +1,14 @@
+{
+  "title": "Заполнение описания сервиса для Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Заполнение описания сервиса для Marketplace",
+  "sectionTitle": "Заполнение описания сервиса для Marketplace",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

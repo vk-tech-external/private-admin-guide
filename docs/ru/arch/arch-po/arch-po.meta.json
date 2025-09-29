@@ -1,0 +1,14 @@
+{
+  "title": "Программное обеспечение",
+  "shortDescription": "",
+  "metaDescription": "Программное обеспечение",
+  "sectionTitle": "Программное обеспечение",
+  "weight": 2,
+  "build": {
+    "for": [
+      "gov",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

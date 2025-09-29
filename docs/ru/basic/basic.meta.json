@@ -1,0 +1,16 @@
+{
+  "title": "Общая информация",
+  "shortDescription": "",
+  "metaDescription": "Общая информация",
+  "sectionTitle": "Общая информация",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

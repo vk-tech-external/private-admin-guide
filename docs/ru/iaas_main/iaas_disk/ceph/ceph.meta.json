@@ -1,0 +1,16 @@
+{
+  "title": "Работа с Ceph",
+  "shortDescription": "",
+  "metaDescription": "Работа с Ceph",
+  "sectionTitle": "Работа с Ceph",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

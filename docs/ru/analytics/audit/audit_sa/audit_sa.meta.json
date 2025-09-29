@@ -1,0 +1,14 @@
+{
+  "title": "Управление сервисом Cloud Audit",
+  "shortDescription": "",
+  "metaDescription": "Управление сервисом Cloud Audit",
+  "sectionTitle": "Управление сервисом Cloud Audit",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

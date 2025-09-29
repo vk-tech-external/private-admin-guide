@@ -1,0 +1,14 @@
+{
+  "title": "Использование скриптов",
+  "shortDescription": "",
+  "metaDescription": "Использование скриптов",
+  "sectionTitle": "Использование скриптов",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

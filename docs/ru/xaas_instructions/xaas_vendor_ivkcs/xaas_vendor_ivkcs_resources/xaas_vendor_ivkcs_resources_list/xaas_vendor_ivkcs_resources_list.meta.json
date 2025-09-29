@@ -1,0 +1,14 @@
+{
+  "title": "Список ресурсов",
+  "shortDescription": "",
+  "metaDescription": "Список ресурсов",
+  "sectionTitle": "Список ресурсов",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

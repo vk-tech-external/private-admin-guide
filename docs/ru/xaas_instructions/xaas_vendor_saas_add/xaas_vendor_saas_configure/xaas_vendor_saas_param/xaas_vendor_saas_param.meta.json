@@ -1,0 +1,14 @@
+{
+  "title": "Параметры сервиса",
+  "shortDescription": "",
+  "metaDescription": "Параметры сервиса",
+  "sectionTitle": "Параметры сервиса",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Основные архитектурные решения",
+  "shortDescription": "",
+  "metaDescription": "Основные архитектурные решения",
+  "sectionTitle": "Основные архитектурные решения",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

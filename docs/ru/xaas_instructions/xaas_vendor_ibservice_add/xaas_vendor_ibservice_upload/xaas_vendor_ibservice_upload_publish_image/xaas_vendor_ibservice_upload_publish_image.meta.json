@@ -1,0 +1,14 @@
+{
+  "title": "Публикация образа сервиса",
+  "shortDescription": "",
+  "metaDescription": "Публикация образа сервиса",
+  "sectionTitle": "Публикация образа сервиса",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

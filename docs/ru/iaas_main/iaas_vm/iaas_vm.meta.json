@@ -1,0 +1,16 @@
+{
+  "title": "Работа с ВМ",
+  "shortDescription": "",
+  "metaDescription": "Работа с ВМ",
+  "sectionTitle": "Работа с ВМ",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

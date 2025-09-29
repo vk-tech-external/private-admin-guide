@@ -1,0 +1,15 @@
+{
+  "title": "Балансировка нагрузки",
+  "shortDescription": "",
+  "metaDescription": "Балансировка нагрузки",
+  "sectionTitle": "Балансировка нагрузки",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

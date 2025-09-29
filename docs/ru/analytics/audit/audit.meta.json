@@ -1,0 +1,14 @@
+{
+  "title": "Cloud Audit",
+  "shortDescription": "",
+  "metaDescription": "Cloud Audit",
+  "sectionTitle": "Cloud Audit",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

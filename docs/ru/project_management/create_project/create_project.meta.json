@@ -1,0 +1,16 @@
+{
+  "title": "Создание проекта",
+  "shortDescription": "",
+  "metaDescription": "Создание проекта",
+  "sectionTitle": "Создание проекта",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

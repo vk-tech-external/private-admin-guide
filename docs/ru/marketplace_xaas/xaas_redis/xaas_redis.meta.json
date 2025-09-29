@@ -1,0 +1,14 @@
+{
+  "title": "Обновление сервиса Redis",
+  "shortDescription": "",
+  "metaDescription": "Обновление сервиса Redis",
+  "sectionTitle": "Обновление сервиса Redis",
+  "weight": 13,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

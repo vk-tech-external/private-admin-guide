@@ -1,0 +1,14 @@
+{
+  "title": "Отключение {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Отключение {var(sys2)}",
+  "sectionTitle": "Отключение {var(sys2)}",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

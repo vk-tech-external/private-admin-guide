@@ -1,0 +1,14 @@
+{
+  "title": "Список конфигурационных файлов image-based приложения",
+  "shortDescription": "",
+  "metaDescription": "Список конфигурационных файлов image-based приложения",
+  "sectionTitle": "Список конфигурационных файлов image-based приложения",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

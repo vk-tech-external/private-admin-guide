@@ -1,0 +1,14 @@
+{
+  "title": "Секция preview",
+  "shortDescription": "",
+  "metaDescription": "Секция preview",
+  "sectionTitle": "Секция preview",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

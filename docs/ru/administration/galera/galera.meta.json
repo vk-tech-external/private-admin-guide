@@ -1,0 +1,14 @@
+{
+  "title": "Перезапуск кластера Galera",
+  "shortDescription": "",
+  "metaDescription": "Перезапуск кластера Galera",
+  "sectionTitle": "Перезапуск кластера Galera",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

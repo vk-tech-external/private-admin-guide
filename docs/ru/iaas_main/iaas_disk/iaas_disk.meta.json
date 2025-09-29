@@ -1,0 +1,16 @@
+{
+  "title": "Работа с дисками",
+  "shortDescription": "",
+  "metaDescription": "Работа с дисками",
+  "sectionTitle": "Работа с дисками",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

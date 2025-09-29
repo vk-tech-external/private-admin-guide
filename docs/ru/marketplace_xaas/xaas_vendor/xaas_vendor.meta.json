@@ -1,0 +1,14 @@
+{
+  "title": "Добавление поставщика image-based приложения",
+  "shortDescription": "",
+  "metaDescription": "Добавление поставщика image-based приложения",
+  "sectionTitle": "Добавление поставщика image-based приложения",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

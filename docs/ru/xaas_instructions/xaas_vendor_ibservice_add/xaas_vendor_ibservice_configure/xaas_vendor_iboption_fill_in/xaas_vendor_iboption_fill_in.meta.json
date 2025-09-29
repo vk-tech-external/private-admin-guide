@@ -1,0 +1,14 @@
+{
+  "title": "Заполнение YAML-файлов тарифных опций",
+  "shortDescription": "",
+  "metaDescription": "Заполнение YAML-файлов тарифных опций",
+  "sectionTitle": "Заполнение YAML-файлов тарифных опций",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}
