@@ -1,0 +1,13 @@
+{
+  "title": "PaaS",
+  "shortDescription": "",
+  "metaDescription": "PaaS",
+  "sectionTitle": "PaaS",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

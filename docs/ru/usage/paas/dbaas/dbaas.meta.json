@@ -1,0 +1,13 @@
+{
+  "title": "DBaaS",
+  "shortDescription": "",
+  "metaDescription": "DBaaS",
+  "sectionTitle": "DBaaS",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

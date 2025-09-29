@@ -1,0 +1,13 @@
+{
+  "title": "Структура сервисного пакета",
+  "shortDescription": "",
+  "metaDescription": "Структура сервисного пакета",
+  "sectionTitle": "Структура сервисного пакета",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

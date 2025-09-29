@@ -1,0 +1,13 @@
+{
+  "title": "Обновление image-based приложения",
+  "shortDescription": "",
+  "metaDescription": "Обновление image-based приложения",
+  "sectionTitle": "Обновление image-based приложения",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

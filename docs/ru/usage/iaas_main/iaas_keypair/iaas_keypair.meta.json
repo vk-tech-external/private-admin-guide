@@ -1,0 +1,15 @@
+{
+  "title": "Ключевая пара",
+  "shortDescription": "",
+  "metaDescription": "Ключевая пара",
+  "sectionTitle": "Ключевая пара",
+  "weight": 12,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Загрузка SaaS-приложения в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Загрузка SaaS-приложения в Marketplace",
+  "sectionTitle": "Загрузка SaaS-приложения в Marketplace",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

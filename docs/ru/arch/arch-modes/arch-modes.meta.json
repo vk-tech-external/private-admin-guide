@@ -1,0 +1,15 @@
+{
+  "title": "Режимы работы",
+  "shortDescription": "",
+  "metaDescription": "Режимы работы",
+  "sectionTitle": "Режимы работы",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

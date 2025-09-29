@@ -1,0 +1,15 @@
+{
+  "title": "Управление ВМ",
+  "shortDescription": "",
+  "metaDescription": "Управление ВМ",
+  "sectionTitle": "Управление ВМ",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

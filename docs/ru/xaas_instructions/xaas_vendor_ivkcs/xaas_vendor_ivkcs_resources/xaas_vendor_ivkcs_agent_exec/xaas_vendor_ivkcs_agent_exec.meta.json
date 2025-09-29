@@ -1,0 +1,13 @@
+{
+  "title": "Ресурс ivkcs_agent_exec",
+  "shortDescription": "",
+  "metaDescription": "Ресурс ivkcs_agent_exec",
+  "sectionTitle": "Ресурс ivkcs_agent_exec",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Журналы событий OpenSearch",
+  "shortDescription": "",
+  "metaDescription": "Журналы событий OpenSearch",
+  "sectionTitle": "Журналы событий OpenSearch",
+  "weight": 10,
+  "build": {
+    "for": [
+      "box",
+      "go"
+    ]
+  },
+  "uuid": ""
+}

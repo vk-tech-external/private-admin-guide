@@ -1,0 +1,13 @@
+{
+  "title": "Управление пространствами имен Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Управление пространствами имен Marketplace",
+  "sectionTitle": "Управление пространствами имен Marketplace",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

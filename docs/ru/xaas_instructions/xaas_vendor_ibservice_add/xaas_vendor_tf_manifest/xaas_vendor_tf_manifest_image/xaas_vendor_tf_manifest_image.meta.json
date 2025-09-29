@@ -1,0 +1,13 @@
+{
+  "title": "Описание инфраструктуры",
+  "shortDescription": "",
+  "metaDescription": "Описание инфраструктуры",
+  "sectionTitle": "Описание инфраструктуры",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

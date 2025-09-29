@@ -1,0 +1,1 @@
+# {heading(Провайдер VK CS Infra (iVK CS))[id=xaas_vendor_ivkcs]}

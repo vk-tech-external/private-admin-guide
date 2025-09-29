@@ -1,0 +1,13 @@
+{
+  "title": "Агент",
+  "shortDescription": "",
+  "metaDescription": "Агент",
+  "sectionTitle": "Агент",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

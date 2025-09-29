@@ -1,0 +1,13 @@
+{
+  "title": "Пример манифеста для image-based приложения",
+  "shortDescription": "",
+  "metaDescription": "Пример манифеста для image-based приложения",
+  "sectionTitle": "Пример манифеста для image-based приложения",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

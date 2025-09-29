@@ -1,0 +1,15 @@
+{
+  "title": "Сетевые настройки",
+  "shortDescription": "",
+  "metaDescription": "Сетевые настройки",
+  "sectionTitle": "Сетевые настройки",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

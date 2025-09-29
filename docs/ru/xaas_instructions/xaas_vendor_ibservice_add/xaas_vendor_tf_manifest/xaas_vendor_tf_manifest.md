@@ -1,0 +1,1 @@
+# {heading(Конфигурация инфраструктуры image-based приложения)[id=xaas_vendor_tf_manifest]}

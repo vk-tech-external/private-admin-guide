@@ -1,0 +1,13 @@
+{
+  "title": "Настройка SMTP-сервера для отправки уведомлений от Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Настройка SMTP-сервера для отправки уведомлений от Marketplace",
+  "sectionTitle": "Настройка SMTP-сервера для отправки уведомлений от Marketplace",
+  "weight": 15,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

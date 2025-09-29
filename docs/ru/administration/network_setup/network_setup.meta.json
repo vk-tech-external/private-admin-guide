@@ -1,0 +1,15 @@
+{
+  "title": "Настройка внешней сети",
+  "shortDescription": "",
+  "metaDescription": "Настройка внешней сети",
+  "sectionTitle": "Настройка внешней сети",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}
