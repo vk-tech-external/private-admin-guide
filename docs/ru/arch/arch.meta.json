@@ -1,0 +1,15 @@
+{
+  "title": "Основные архитектурные решения {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Основные архитектурные решения {var(sys2)}",
+  "sectionTitle": "Основные архитектурные решения {var(sys2)}",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "206a7135-adcf-4f11-b18d-929d3c77cb82"
+}

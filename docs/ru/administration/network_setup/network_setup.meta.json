@@ -1,0 +1,15 @@
+{
+  "title": "Настройка сети",
+  "shortDescription": "",
+  "metaDescription": "Настройка сети",
+  "sectionTitle": "Настройка сети",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "68ac0d2c-311d-4662-8172-4b76bcaa56aa"
+}

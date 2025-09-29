@@ -1,0 +1,15 @@
+{
+  "title": "Управление биллингом",
+  "shortDescription": "",
+  "metaDescription": "Управление биллингом",
+  "sectionTitle": "Управление биллингом",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "f053492b-2b08-4d86-a05a-5980da1605d0"
+}

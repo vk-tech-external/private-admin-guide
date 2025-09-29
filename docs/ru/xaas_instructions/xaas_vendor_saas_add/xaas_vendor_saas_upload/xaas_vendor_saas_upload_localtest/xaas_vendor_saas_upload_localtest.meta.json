@@ -1,0 +1,13 @@
+{
+  "title": "Локальное тестирование брокера",
+  "shortDescription": "",
+  "metaDescription": "Локальное тестирование брокера",
+  "sectionTitle": "Локальное тестирование брокера",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "b9b62e07-6d9a-4382-9cfa-ac1a83401111"
+}

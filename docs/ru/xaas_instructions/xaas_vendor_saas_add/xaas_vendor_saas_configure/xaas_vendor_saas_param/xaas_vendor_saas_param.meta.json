@@ -1,0 +1,13 @@
+{
+  "title": "Параметры сервиса",
+  "shortDescription": "",
+  "metaDescription": "Параметры сервиса",
+  "sectionTitle": "Параметры сервиса",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "226a725a-fa82-4249-9dc1-6bbf138969fc"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Работа с образами ВМ",
+  "shortDescription": "",
+  "metaDescription": "Работа с образами ВМ",
+  "sectionTitle": "Работа с образами ВМ",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "e2c59ece-3530-43e6-94dc-f421101a2f70"
+}

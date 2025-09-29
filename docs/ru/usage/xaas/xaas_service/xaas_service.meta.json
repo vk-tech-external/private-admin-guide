@@ -1,0 +1,13 @@
+{
+  "title": "Управление сервисами Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Управление сервисами Marketplace",
+  "sectionTitle": "Управление сервисами Marketplace",
+  "weight": 10,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "7732b5e5-c66c-45ba-8515-7044a7c2a78e"
+}

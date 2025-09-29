@@ -1,0 +1,15 @@
+{
+  "title": "Управление виртуальной машиной",
+  "shortDescription": "",
+  "metaDescription": "Управление виртуальной машиной",
+  "sectionTitle": "Управление виртуальной машиной",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "fbb59b78-abe6-4ecb-881b-cb9b40937700"
+}

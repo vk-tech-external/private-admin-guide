@@ -1,0 +1,13 @@
+{
+  "title": "Брокер для SaaS-приложения",
+  "shortDescription": "",
+  "metaDescription": "Брокер для SaaS-приложения",
+  "sectionTitle": "Брокер для SaaS-приложения",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "acbd9ba9-0cfe-4f55-ae46-7b0b870a601c"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Файл full_description.md",
+  "shortDescription": "",
+  "metaDescription": "Файл full_description.md",
+  "sectionTitle": "Файл full_description.md",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "4ad581bf-0860-4544-858d-d6818bfa2839"
+}

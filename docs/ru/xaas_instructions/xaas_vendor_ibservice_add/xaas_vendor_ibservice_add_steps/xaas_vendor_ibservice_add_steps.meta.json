@@ -1,0 +1,13 @@
+{
+  "title": "Порядок действий",
+  "shortDescription": "",
+  "metaDescription": "Порядок действий",
+  "sectionTitle": "Порядок действий",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "b99c7fe6-1276-470f-a460-dbe932f05eb6"
+}

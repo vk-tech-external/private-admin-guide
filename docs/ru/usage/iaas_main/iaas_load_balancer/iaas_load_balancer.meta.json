@@ -1,0 +1,15 @@
+{
+  "title": "Балансировщики нагрузки",
+  "shortDescription": "",
+  "metaDescription": "Балансировщики нагрузки",
+  "sectionTitle": "Балансировщики нагрузки",
+  "weight": 14,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "a4e16291-13b6-4905-8f0d-f7aa853d10c4"
+}

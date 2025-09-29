@@ -1,0 +1,13 @@
+{
+  "title": "Секция billing",
+  "shortDescription": "",
+  "metaDescription": "Секция billing",
+  "sectionTitle": "Секция billing",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "ec57327d-bc09-492b-9847-092451fcd7d1"
+}

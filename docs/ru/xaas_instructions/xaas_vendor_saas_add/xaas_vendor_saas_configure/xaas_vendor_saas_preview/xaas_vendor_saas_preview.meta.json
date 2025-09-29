@@ -1,0 +1,13 @@
+{
+  "title": "Секция preview",
+  "shortDescription": "",
+  "metaDescription": "Секция preview",
+  "sectionTitle": "Секция preview",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "c33603ff-d2bd-45c8-bb89-d4b1c8b7a314"
+}

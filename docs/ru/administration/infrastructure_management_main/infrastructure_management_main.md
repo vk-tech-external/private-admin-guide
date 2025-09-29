@@ -1,0 +1,1 @@
+# {heading(Управление инфраструктурой, на которой развёрнута {var(sys1)})[id=infrastructure_management_main]}

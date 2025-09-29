@@ -1,0 +1,1 @@
+# {appendix-heading(YAML-файл тарифной опции)[id=xaas_vendor_iboption; position=prefix]}

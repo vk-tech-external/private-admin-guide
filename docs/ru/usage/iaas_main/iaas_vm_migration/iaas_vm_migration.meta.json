@@ -1,0 +1,15 @@
+{
+  "title": "Миграция ВМ",
+  "shortDescription": "",
+  "metaDescription": "Миграция ВМ",
+  "sectionTitle": "Миграция ВМ",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "e3ac1043-d6cb-4696-ace8-6cb6bd239a1d"
+}

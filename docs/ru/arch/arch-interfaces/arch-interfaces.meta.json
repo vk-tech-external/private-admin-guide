@@ -1,0 +1,15 @@
+{
+  "title": "Основные интерфейсы",
+  "shortDescription": "",
+  "metaDescription": "Основные интерфейсы",
+  "sectionTitle": "Основные интерфейсы",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "c50f9065-210c-4fe7-a4c4-5701c682b742"
+}

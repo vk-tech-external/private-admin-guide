@@ -1,0 +1,13 @@
+{
+  "title": "Загрузка сервисного пакета в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Загрузка сервисного пакета в Marketplace",
+  "sectionTitle": "Загрузка сервисного пакета в Marketplace",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "8a562427-1857-4c58-bc92-a69e97a83729"
+}

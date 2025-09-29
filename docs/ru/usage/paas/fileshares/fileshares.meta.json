@@ -1,0 +1,13 @@
+{
+  "title": "Файловое хранилище",
+  "shortDescription": "",
+  "metaDescription": "Файловое хранилище",
+  "sectionTitle": "Файловое хранилище",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "76e66a9c-a76e-4774-a8c9-cfd04c8123e9"
+}

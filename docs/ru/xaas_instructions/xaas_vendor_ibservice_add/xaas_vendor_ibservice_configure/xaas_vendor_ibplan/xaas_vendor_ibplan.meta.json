@@ -1,0 +1,13 @@
+{
+  "title": "Файл plan.yaml",
+  "shortDescription": "",
+  "metaDescription": "Файл plan.yaml",
+  "sectionTitle": "Файл plan.yaml",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "b8e71a4b-2253-41e9-8c97-cee3b4771553"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Отчёт о статистике потребления сервисов",
+  "shortDescription": "",
+  "metaDescription": "Отчёт о статистике потребления сервисов",
+  "sectionTitle": "Отчёт о статистике потребления сервисов",
+  "weight": 11,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "7d1b9acd-929f-4ead-a3d7-afdf1abdd3fa"
+}

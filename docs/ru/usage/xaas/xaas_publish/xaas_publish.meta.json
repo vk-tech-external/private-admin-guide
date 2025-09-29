@@ -1,0 +1,13 @@
+{
+  "title": "Публикация сервиса в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Публикация сервиса в Marketplace",
+  "sectionTitle": "Публикация сервиса в Marketplace",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "c676d59d-955c-4afb-8285-3aa941826a44"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Файл display.yaml",
+  "shortDescription": "",
+  "metaDescription": "Файл display.yaml",
+  "sectionTitle": "Файл display.yaml",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "4fcfe33d-b73a-4e4a-bef7-94fd7da73d46"
+}

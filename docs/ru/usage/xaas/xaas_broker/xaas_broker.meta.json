@@ -1,0 +1,13 @@
+{
+  "title": "Управление брокером",
+  "shortDescription": "",
+  "metaDescription": "Управление брокером",
+  "sectionTitle": "Управление брокером",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "1a54085a-11f2-4371-b706-63e20cc21d05"
+}

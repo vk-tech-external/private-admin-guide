@@ -1,0 +1,14 @@
+{
+  "title": "Журналы событий",
+  "shortDescription": "",
+  "metaDescription": "Журналы событий",
+  "sectionTitle": "Журналы событий",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "go"
+    ]
+  },
+  "uuid": "b4a90130-e217-4f98-b24e-4f9e5c9fdec1"
+}

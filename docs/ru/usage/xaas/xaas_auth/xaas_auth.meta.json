@@ -1,0 +1,13 @@
+{
+  "title": "Авторизация в Marketplace под учётной записью администратора {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Авторизация в Marketplace под учётной записью администратора {var(sys2)}",
+  "sectionTitle": "Авторизация в Marketplace под учётной записью администратора {var(sys2)}",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "f0ad1c37-07a9-496d-b919-34a2027171f6"
+}

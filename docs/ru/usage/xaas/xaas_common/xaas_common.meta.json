@@ -1,0 +1,13 @@
+{
+  "title": "Общая информация",
+  "shortDescription": "",
+  "metaDescription": "Общая информация",
+  "sectionTitle": "Общая информация",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "fe56c4aa-2332-4916-a2d2-07ff0418580a"
+}

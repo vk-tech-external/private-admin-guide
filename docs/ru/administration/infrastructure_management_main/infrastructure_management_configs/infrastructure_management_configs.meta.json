@@ -1,0 +1,15 @@
+{
+  "title": "Изменение конфигурации на узлах",
+  "shortDescription": "",
+  "metaDescription": "Изменение конфигурации на узлах",
+  "sectionTitle": "Изменение конфигурации на узлах",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "62983de6-0dcb-472a-894c-3d253fd5f7be"
+}

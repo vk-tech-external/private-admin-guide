@@ -1,0 +1,13 @@
+{
+  "title": "Пример JSON-файла для SaaS-приложения",
+  "shortDescription": "",
+  "metaDescription": "Пример JSON-файла для SaaS-приложения",
+  "sectionTitle": "Пример JSON-файла для SaaS-приложения",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "5bea5758-c287-45e0-ad16-9d86fe78ae4a"
+}

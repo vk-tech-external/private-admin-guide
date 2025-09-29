@@ -1,0 +1,13 @@
+{
+  "title": "Техническая поддержка",
+  "shortDescription": "",
+  "metaDescription": "Техническая поддержка",
+  "sectionTitle": "Техническая поддержка",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "92c89313-5f6a-41af-9328-b214bfc9fe57"
+}

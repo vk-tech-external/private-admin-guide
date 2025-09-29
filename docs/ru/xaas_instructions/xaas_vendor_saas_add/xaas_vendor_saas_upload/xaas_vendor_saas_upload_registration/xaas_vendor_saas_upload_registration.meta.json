@@ -1,0 +1,13 @@
+{
+  "title": "Регистрация брокера",
+  "shortDescription": "",
+  "metaDescription": "Регистрация брокера",
+  "sectionTitle": "Регистрация брокера",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "89d4c9fa-0c5e-48da-b320-58691129b894"
+}

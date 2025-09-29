@@ -1,0 +1,15 @@
+{
+  "title": "Управление пользователями",
+  "shortDescription": "",
+  "metaDescription": "Управление пользователями",
+  "sectionTitle": "Управление пользователями",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "c6dd9822-994d-43b4-b0a2-c982b37b9a64"
+}

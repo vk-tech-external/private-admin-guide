@@ -1,0 +1,13 @@
+{
+  "title": "Требования к образу сервиса",
+  "shortDescription": "",
+  "metaDescription": "Требования к образу сервиса",
+  "sectionTitle": "Требования к образу сервиса",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "1969c725-daba-4d03-92f6-8a0f3fdacf39"
+}

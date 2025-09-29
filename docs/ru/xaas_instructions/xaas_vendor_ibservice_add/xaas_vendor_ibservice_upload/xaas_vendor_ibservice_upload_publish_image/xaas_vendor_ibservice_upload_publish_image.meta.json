@@ -1,0 +1,13 @@
+{
+  "title": "Публикация образа сервиса",
+  "shortDescription": "",
+  "metaDescription": "Публикация образа сервиса",
+  "sectionTitle": "Публикация образа сервиса",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "47af08d1-8aea-40ae-ac6a-7b5866d71e09"
+}

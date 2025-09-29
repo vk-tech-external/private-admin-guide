@@ -1,0 +1,15 @@
+{
+  "title": "Функциональная структура",
+  "shortDescription": "",
+  "metaDescription": "Функциональная структура",
+  "sectionTitle": "Функциональная структура",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "47bd7283-f1a6-4b4e-b298-9c5a126c965e"
+}

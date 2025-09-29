@@ -1,0 +1,13 @@
+{
+  "title": "Конфигурация image-based приложения",
+  "shortDescription": "",
+  "metaDescription": "Конфигурация image-based приложения",
+  "sectionTitle": "Конфигурация image-based приложения",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "e2b3db5d-46d4-451d-9892-c3a4d718ab96"
+}

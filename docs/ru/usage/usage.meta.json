@@ -1,0 +1,15 @@
+{
+  "title": "Эксплуатация {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Эксплуатация {var(sys2)}",
+  "sectionTitle": "Эксплуатация {var(sys2)}",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "dd317156-9a70-46b0-b9a3-6e8369a84b22"
+}

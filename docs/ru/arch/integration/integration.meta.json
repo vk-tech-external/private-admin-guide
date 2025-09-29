@@ -1,0 +1,14 @@
+{
+  "title": "Интеграция с внешними системами",
+  "shortDescription": "",
+  "metaDescription": "Интеграция с внешними системами",
+  "sectionTitle": "Интеграция с внешними системами",
+  "weight": 7,
+  "build": {
+    "for": [
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "ccb7bf92-8f92-47ef-9631-e378b7d46cb1"
+}

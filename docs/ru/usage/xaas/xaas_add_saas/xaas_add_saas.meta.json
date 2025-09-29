@@ -1,0 +1,13 @@
+{
+  "title": "Добавление SaaS-приложения в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Добавление SaaS-приложения в Marketplace",
+  "sectionTitle": "Добавление SaaS-приложения в Marketplace",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "67eb6eb5-3012-4f28-acd4-ec8f921c26d5"
+}

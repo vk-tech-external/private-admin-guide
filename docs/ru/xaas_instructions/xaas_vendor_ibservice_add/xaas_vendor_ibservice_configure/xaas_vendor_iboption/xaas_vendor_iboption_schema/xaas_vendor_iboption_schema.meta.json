@@ -1,0 +1,13 @@
+{
+  "title": "Секция schema",
+  "shortDescription": "",
+  "metaDescription": "Секция schema",
+  "sectionTitle": "Секция schema",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "c7523e58-9868-43fd-b9dc-045029d2264c"
+}

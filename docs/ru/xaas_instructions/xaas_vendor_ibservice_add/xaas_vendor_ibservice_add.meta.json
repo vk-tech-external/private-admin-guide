@@ -1,0 +1,13 @@
+{
+  "title": "Добавление image-based приложения в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Добавление image-based приложения в Marketplace",
+  "sectionTitle": "Добавление image-based приложения в Marketplace",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "0002b329-bde7-45e7-b38b-163bb8b4bad7"
+}

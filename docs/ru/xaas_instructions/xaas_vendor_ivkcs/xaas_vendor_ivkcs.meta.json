@@ -1,0 +1,13 @@
+{
+  "title": "Провайдер VK CS Infra (iVK CS)",
+  "shortDescription": "",
+  "metaDescription": "Провайдер VK CS Infra (iVK CS)",
+  "sectionTitle": "Провайдер VK CS Infra (iVK CS)",
+  "weight": 10,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "438cbd33-623a-48c9-ac71-a7fa2f21fd91"
+}

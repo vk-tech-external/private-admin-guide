@@ -1,0 +1,13 @@
+{
+  "title": "Подготовительные операции",
+  "shortDescription": "",
+  "metaDescription": "Подготовительные операции",
+  "sectionTitle": "Подготовительные операции",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "9de62d5a-ea35-4405-8c30-be65d9b6c13c"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Администрирование {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Администрирование {var(sys2)}",
+  "sectionTitle": "Администрирование {var(sys2)}",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "08a7bc55-d3ad-41c7-94d2-32415fd77b41"
+}

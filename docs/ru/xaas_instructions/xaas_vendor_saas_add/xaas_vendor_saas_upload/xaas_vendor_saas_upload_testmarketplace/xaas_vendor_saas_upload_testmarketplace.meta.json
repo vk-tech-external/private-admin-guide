@@ -1,0 +1,13 @@
+{
+  "title": "Тестирование сервиса в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Тестирование сервиса в Marketplace",
+  "sectionTitle": "Тестирование сервиса в Marketplace",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "0a149c33-421a-4017-ad78-61cdbeae9125"
+}

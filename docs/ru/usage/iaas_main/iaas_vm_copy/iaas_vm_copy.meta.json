@@ -1,0 +1,15 @@
+{
+  "title": "Создание копии ВМ",
+  "shortDescription": "",
+  "metaDescription": "Создание копии ВМ",
+  "sectionTitle": "Создание копии ВМ",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "f18de2a7-020f-4705-ac69-3088f994b828"
+}

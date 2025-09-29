@@ -1,0 +1,13 @@
+{
+  "title": "Список ресурсов",
+  "shortDescription": "",
+  "metaDescription": "Список ресурсов",
+  "sectionTitle": "Список ресурсов",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "1a706e3f-5cbd-4a4e-aef7-1f1f6ad87b94"
+}

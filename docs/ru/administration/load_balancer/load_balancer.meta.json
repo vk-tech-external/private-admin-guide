@@ -1,0 +1,15 @@
+{
+  "title": "Балансировка нагрузки",
+  "shortDescription": "",
+  "metaDescription": "Балансировка нагрузки",
+  "sectionTitle": "Балансировка нагрузки",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "4061efeb-de7a-4e10-ab4f-508706c4690b"
+}

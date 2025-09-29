@@ -1,0 +1,13 @@
+{
+  "title": "Этапы загрузки сервиса",
+  "shortDescription": "",
+  "metaDescription": "Этапы загрузки сервиса",
+  "sectionTitle": "Этапы загрузки сервиса",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "64118766-5cd6-4e3f-b7ac-ac7946c380ac"
+}

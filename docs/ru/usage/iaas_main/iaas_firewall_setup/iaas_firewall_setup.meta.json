@@ -1,0 +1,15 @@
+{
+  "title": "Настройки firewall",
+  "shortDescription": "",
+  "metaDescription": "Настройки firewall",
+  "sectionTitle": "Настройки firewall",
+  "weight": 10,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "dac89043-ff10-42b2-99a9-4e1073ee5fe5"
+}

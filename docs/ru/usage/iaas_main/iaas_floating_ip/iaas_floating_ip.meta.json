@@ -1,0 +1,15 @@
+{
+  "title": "Плавающие IP-адреса у виртуальных машин",
+  "shortDescription": "",
+  "metaDescription": "Плавающие IP-адреса у виртуальных машин",
+  "sectionTitle": "Плавающие IP-адреса у виртуальных машин",
+  "weight": 13,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "cd883e52-c02a-4790-9bca-946c5e6bef65"
+}

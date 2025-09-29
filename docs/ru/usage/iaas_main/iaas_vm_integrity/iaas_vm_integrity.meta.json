@@ -1,0 +1,15 @@
+{
+  "title": "Контроль целостности ВМ",
+  "shortDescription": "",
+  "metaDescription": "Контроль целостности ВМ",
+  "sectionTitle": "Контроль целостности ВМ",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "6a3ab80d-1c7d-46c0-a477-b3b9048dfdd1"
+}

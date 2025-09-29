@@ -1,0 +1,13 @@
+{
+  "title": "Ресурсы",
+  "shortDescription": "",
+  "metaDescription": "Ресурсы",
+  "sectionTitle": "Ресурсы",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "210d3dfd-d549-4ffe-bee3-bf3c3599b770"
+}

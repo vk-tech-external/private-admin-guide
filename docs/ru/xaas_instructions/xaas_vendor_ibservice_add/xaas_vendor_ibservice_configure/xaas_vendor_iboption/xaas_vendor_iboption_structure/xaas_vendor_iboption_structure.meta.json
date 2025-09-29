@@ -1,0 +1,13 @@
+{
+  "title": "Структура",
+  "shortDescription": "",
+  "metaDescription": "Структура",
+  "sectionTitle": "Структура",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": "e50b4843-44bc-4da6-800c-6b2bb5f8e9fb"
+}

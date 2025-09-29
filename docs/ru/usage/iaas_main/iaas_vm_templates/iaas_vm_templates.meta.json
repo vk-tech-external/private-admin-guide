@@ -1,0 +1,15 @@
+{
+  "title": "Работа с шаблонами ВМ",
+  "shortDescription": "",
+  "metaDescription": "Работа с шаблонами ВМ",
+  "sectionTitle": "Работа с шаблонами ВМ",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": "5bdbfe2c-f66d-47a1-8016-b189290d5558"
+}
