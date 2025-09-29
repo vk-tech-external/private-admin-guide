@@ -1,0 +1,14 @@
+{
+  "title": "Описание выходных параметров",
+  "shortDescription": "",
+  "metaDescription": "Описание выходных параметров",
+  "sectionTitle": "Описание выходных параметров",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

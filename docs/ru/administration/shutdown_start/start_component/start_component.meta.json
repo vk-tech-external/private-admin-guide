@@ -1,0 +1,14 @@
+{
+  "title": "Включение {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Включение {var(sys2)}",
+  "sectionTitle": "Включение {var(sys2)}",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

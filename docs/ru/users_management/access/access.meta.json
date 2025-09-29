@@ -1,0 +1,16 @@
+{
+  "title": "Доступы",
+  "shortDescription": "",
+  "metaDescription": "Доступы",
+  "sectionTitle": "Доступы",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

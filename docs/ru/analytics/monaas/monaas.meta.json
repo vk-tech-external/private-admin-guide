@@ -1,0 +1,14 @@
+{
+  "title": "Cloud Monitoring",
+  "shortDescription": "",
+  "metaDescription": "Cloud Monitoring",
+  "sectionTitle": "Cloud Monitoring",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

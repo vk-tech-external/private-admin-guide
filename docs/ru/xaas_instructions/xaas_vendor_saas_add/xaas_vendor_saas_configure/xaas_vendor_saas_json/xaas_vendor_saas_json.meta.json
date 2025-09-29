@@ -1,0 +1,14 @@
+{
+  "title": "Структура JSON-файла",
+  "shortDescription": "",
+  "metaDescription": "Структура JSON-файла",
+  "sectionTitle": "Структура JSON-файла",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

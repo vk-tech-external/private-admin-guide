@@ -1,0 +1,14 @@
+{
+  "title": "Журнал событий безопасности",
+  "shortDescription": "",
+  "metaDescription": "Журнал событий безопасности",
+  "sectionTitle": "Журнал событий безопасности",
+  "weight": 6,
+  "build": {
+    "for": [
+      "gov",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Список событий Cloud Audit",
+  "shortDescription": "",
+  "metaDescription": "Список событий Cloud Audit",
+  "sectionTitle": "Список событий Cloud Audit",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

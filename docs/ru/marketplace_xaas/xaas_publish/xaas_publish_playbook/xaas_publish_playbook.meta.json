@@ -1,0 +1,13 @@
+{
+  "title": "Публикация сервиса в Marketplace c помощью плейбука",
+  "shortDescription": "",
+  "metaDescription": "Публикация сервиса в Marketplace c помощью плейбука",
+  "sectionTitle": "Публикация сервиса в Marketplace c помощью плейбука",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

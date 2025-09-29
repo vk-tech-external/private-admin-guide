@@ -1,0 +1,16 @@
+{
+  "title": "Функциональная структура",
+  "shortDescription": "",
+  "metaDescription": "Функциональная структура",
+  "sectionTitle": "Функциональная структура",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Публикация сервиса в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Публикация сервиса в Marketplace",
+  "sectionTitle": "Публикация сервиса в Marketplace",
+  "weight": 10,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

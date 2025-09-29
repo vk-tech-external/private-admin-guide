@@ -1,0 +1,16 @@
+{
+  "title": "Администрирование",
+  "shortDescription": "",
+  "metaDescription": "Администрирование",
+  "sectionTitle": "Администрирование",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

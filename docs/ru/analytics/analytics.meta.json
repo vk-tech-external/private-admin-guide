@@ -1,0 +1,16 @@
+{
+  "title": "Сервисы аналитики",
+  "shortDescription": "",
+  "metaDescription": "Сервисы аналитики",
+  "sectionTitle": "Сервисы аналитики",
+  "weight": 10,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

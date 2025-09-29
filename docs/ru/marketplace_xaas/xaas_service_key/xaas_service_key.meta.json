@@ -1,0 +1,14 @@
+{
+  "title": "Управление сервисным ключом image-based приложения",
+  "shortDescription": "",
+  "metaDescription": "Управление сервисным ключом image-based приложения",
+  "sectionTitle": "Управление сервисным ключом image-based приложения",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

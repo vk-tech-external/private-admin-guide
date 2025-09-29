@@ -1,0 +1,14 @@
+{
+  "title": "Секция plans",
+  "shortDescription": "",
+  "metaDescription": "Секция plans",
+  "sectionTitle": "Секция plans",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

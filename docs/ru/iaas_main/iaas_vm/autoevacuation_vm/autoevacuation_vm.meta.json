@@ -1,0 +1,14 @@
+{
+  "title": "Автоэвакуация ВМ",
+  "shortDescription": "",
+  "metaDescription": "Автоэвакуация ВМ",
+  "sectionTitle": "Автоэвакуация ВМ",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

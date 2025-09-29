@@ -1,0 +1,1 @@
+# {heading(Отключение и включение {var(sys2)})[id=shutdown_start]}

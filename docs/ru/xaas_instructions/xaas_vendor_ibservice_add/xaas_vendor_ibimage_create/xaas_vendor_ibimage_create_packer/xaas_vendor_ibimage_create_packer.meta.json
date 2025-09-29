@@ -1,0 +1,14 @@
+{
+  "title": "Создание с помощью Packer",
+  "shortDescription": "",
+  "metaDescription": "Создание с помощью Packer",
+  "sectionTitle": "Создание с помощью Packer",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

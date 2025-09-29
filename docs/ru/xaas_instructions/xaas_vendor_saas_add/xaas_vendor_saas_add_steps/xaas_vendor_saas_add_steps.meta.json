@@ -1,0 +1,14 @@
+{
+  "title": "Порядок действий",
+  "shortDescription": "",
+  "metaDescription": "Порядок действий",
+  "sectionTitle": "Порядок действий",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

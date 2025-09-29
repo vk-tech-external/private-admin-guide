@@ -1,0 +1,16 @@
+{
+  "title": "Сети",
+  "shortDescription": "",
+  "metaDescription": "Сети",
+  "sectionTitle": "Сети",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

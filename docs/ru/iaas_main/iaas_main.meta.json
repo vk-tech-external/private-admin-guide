@@ -1,0 +1,16 @@
+{
+  "title": "Облачные вычисления",
+  "shortDescription": "",
+  "metaDescription": "Облачные вычисления",
+  "sectionTitle": "Облачные вычисления",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

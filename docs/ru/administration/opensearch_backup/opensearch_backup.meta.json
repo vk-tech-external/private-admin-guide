@@ -1,0 +1,14 @@
+{
+  "title": "Резервное копирование OpenSearch",
+  "shortDescription": "",
+  "metaDescription": "Резервное копирование OpenSearch",
+  "sectionTitle": "Резервное копирование OpenSearch",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

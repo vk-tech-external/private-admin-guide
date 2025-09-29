@@ -1,0 +1,14 @@
+{
+  "title": "Ресурс ivkcs_agent_init",
+  "shortDescription": "",
+  "metaDescription": "Ресурс ivkcs_agent_init",
+  "sectionTitle": "Ресурс ivkcs_agent_init",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

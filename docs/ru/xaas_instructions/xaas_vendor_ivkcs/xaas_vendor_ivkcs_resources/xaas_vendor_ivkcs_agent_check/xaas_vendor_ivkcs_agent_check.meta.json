@@ -1,0 +1,14 @@
+{
+  "title": "Ресурс ivkcs_agent_check",
+  "shortDescription": "",
+  "metaDescription": "Ресурс ivkcs_agent_check",
+  "sectionTitle": "Ресурс ivkcs_agent_check",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

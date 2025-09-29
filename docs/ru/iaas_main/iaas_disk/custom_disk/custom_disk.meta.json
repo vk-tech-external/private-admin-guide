@@ -1,0 +1,14 @@
+{
+  "title": "Работа с дисками внешней СХД",
+  "shortDescription": "",
+  "metaDescription": "Работа с дисками внешней СХД",
+  "sectionTitle": "Работа с дисками внешней СХД",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

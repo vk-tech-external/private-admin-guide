@@ -1,0 +1,15 @@
+{
+  "title": "Мониторинг",
+  "shortDescription": "",
+  "metaDescription": "Мониторинг",
+  "sectionTitle": "Мониторинг",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

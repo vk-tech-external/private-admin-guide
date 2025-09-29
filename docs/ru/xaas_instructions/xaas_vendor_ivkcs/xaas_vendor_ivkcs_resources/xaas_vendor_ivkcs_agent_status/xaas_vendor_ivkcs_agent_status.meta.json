@@ -1,0 +1,14 @@
+{
+  "title": "Ресурс ivkcs_agent_status",
+  "shortDescription": "",
+  "metaDescription": "Ресурс ivkcs_agent_status",
+  "sectionTitle": "Ресурс ivkcs_agent_status",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

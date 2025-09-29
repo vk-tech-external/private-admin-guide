@@ -1,0 +1,1 @@
+# {appendix-heading(Конфигурация SaaS-приложения)[id=xaas_vendor_saas_configure; position=prefix]}
