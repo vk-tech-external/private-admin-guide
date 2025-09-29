@@ -1,0 +1,1 @@
+# {appendix-heading(Примеры манифестов Terraform)[id=terraform_manifests; position=prefix]}

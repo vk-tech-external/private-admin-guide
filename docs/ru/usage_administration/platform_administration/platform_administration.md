@@ -1,0 +1,1 @@
+# {heading(Администрирование {var(sys2)})[id=platform_administration]}

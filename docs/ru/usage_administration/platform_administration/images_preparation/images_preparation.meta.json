@@ -1,0 +1,9 @@
+{
+  "title": "Подготовка образа диска ВМ для загрузки в {var(sys4)}",
+  "shortDescription": "",
+  "metaDescription": "",
+  "sectionTitle": "Подготовка образа диска ВМ для загрузки в {var(sys4)}",
+  "icon": "",
+  "weight": 8,
+  "uuid": "bec4f4d5-e19c-4e59-8fe2-bb82fd18f092"
+}

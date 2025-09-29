@@ -1,0 +1,9 @@
+{
+  "title": "Пример манифеста Terraform для создания ресурсов группы сервисов «Кластеры Kubernetes»",
+  "shortDescription": "",
+  "metaDescription": "",
+  "sectionTitle": "Пример манифеста Terraform для создания ресурсов группы сервисов «Кластеры Kubernetes»",
+  "icon": "",
+  "weight": 5,
+  "uuid": "3f15d4c2-d69e-4de5-9a60-a673206f19dd"
+}
