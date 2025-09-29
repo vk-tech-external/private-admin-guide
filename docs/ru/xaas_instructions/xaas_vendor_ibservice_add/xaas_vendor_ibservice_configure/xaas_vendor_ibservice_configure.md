@@ -1,0 +1,1 @@
+# {heading(Конфигурация image-based приложения)[id=xaas_vendor_ibservice_configure]}

@@ -1,0 +1,13 @@
+{
+  "title": "Файл service.yaml",
+  "shortDescription": "",
+  "metaDescription": "Файл service.yaml",
+  "sectionTitle": "Файл service.yaml",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

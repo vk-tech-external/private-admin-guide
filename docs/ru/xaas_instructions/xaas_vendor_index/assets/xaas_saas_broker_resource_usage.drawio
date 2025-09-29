@@ -1,0 +1,86 @@
+<mxfile host="Electron" modified="2024-10-04T06:51:59.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="NQJqawiPk06K-W0p9DcM" version="22.1.2" type="device">
+  <diagram name="Page-1" id="VTaWmnHFnFUIXbmNlOS4">
+    <mxGraphModel dx="2247" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fH89P88_7Nbm_w4SOCtI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="40" width="820" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-1" value="SaaS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;broker" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-2" value="SaaS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="80" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-4" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=open;startFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" parent="1" source="hLEIB0dfmofTo3_oVxDi-2" target="hLEIB0dfmofTo3_oVxDi-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="89.99999999999994" as="sourcePoint" />
+            <mxPoint x="-280" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-21" value="Запрашивает&lt;br&gt;отчёт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=VK Sans Display;textOpacity=70;" parent="hLEIB0dfmofTo3_oVxDi-4" vertex="1" connectable="0">
+          <mxGeometry x="0.1788" y="4" relative="1" as="geometry">
+            <mxPoint x="10" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-6" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=open;startFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.012;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hLEIB0dfmofTo3_oVxDi-1" target="hLEIB0dfmofTo3_oVxDi-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="99.5" as="sourcePoint" />
+            <mxPoint x="-570" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Запрашивает &lt;br style=&quot;font-size: 12px;&quot;&gt;необработанный отчёт&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=VK Sans Display;textOpacity=70;fontSize=12;" parent="hLEIB0dfmofTo3_oVxDi-6" vertex="1" connectable="0">
+          <mxGeometry x="0.2756" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-8" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=open;startFill=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="hLEIB0dfmofTo3_oVxDi-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="130" as="sourcePoint" />
+            <mxPoint x="-570" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-9" value="Сообщает о том, &lt;br&gt;что отчёт обработан" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=VK Sans Display;textOpacity=70;fontSize=12;" parent="hLEIB0dfmofTo3_oVxDi-8" vertex="1" connectable="0">
+          <mxGeometry x="0.2756" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-16" value="Marketplace (XaaS)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-790" y="50" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-19" value="Обрабатывает отчёт" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-772.61" y="100" width="185.21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-20" value="Рассчитывает сумму списания" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-772.61" y="150" width="185.21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hLEIB0dfmofTo3_oVxDi-22" value="Списывает сумму со счёта облачного проекта" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;" parent="1" vertex="1">
+          <mxGeometry x="-772.6" y="200" width="185.21" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NLGSrMr64SLDu2u1hs2b-1" value="" style="endArrow=open;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=none;startFill=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.012;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-402.64" y="150.28" as="sourcePoint" />
+            <mxPoint x="-569.9999999999999" y="150.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NLGSrMr64SLDu2u1hs2b-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Присылает&lt;br style=&quot;font-size: 12px;&quot;&gt;необработанный отчёт&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=VK Sans Display;textOpacity=70;fontSize=12;" parent="NLGSrMr64SLDu2u1hs2b-1" vertex="1" connectable="0">
+          <mxGeometry x="0.2756" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NLGSrMr64SLDu2u1hs2b-3" value="" style="endArrow=open;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=none;startFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="150" as="sourcePoint" />
+            <mxPoint x="-280" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NLGSrMr64SLDu2u1hs2b-4" value="Присылает &lt;br&gt;отчёт" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=VK Sans Display;textOpacity=70;" parent="NLGSrMr64SLDu2u1hs2b-3" vertex="1" connectable="0">
+          <mxGeometry x="0.1788" y="4" relative="1" as="geometry">
+            <mxPoint x="10" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

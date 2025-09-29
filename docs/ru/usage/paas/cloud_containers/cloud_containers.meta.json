@@ -1,0 +1,13 @@
+{
+  "title": "Кластеры Kubernetes",
+  "shortDescription": "",
+  "metaDescription": "Кластеры Kubernetes",
+  "sectionTitle": "Кластеры Kubernetes",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Инструкция поставщика сервисов Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Инструкция поставщика сервисов Marketplace",
+  "sectionTitle": "Инструкция поставщика сервисов Marketplace",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

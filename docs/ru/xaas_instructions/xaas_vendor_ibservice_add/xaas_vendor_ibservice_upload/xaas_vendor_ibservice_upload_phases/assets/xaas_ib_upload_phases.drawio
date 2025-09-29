@@ -1,0 +1,111 @@
+<mxfile host="Electron" modified="2024-10-04T06:32:45.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="arDD8t_hVotzq2DVCqvW" version="22.1.2" type="device">
+  <diagram name="Page-1" id="88tBynsUrAo9uXz7Dx3e">
+    <mxGraphModel dx="1052" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mmk0ekORg3hTFY3gia0N-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="990" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_hclrvmdq-fLeOA44tR-2" value="Тестирование манифестов с системой развёртывания" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="910" y="437" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-17" value="&lt;font color=&quot;#212121&quot; style=&quot;font-size: 14px;&quot;&gt;Портал самообслуживания&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="930" y="499.5" width="250" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-18" value="&lt;font color=&quot;#212121&quot; style=&quot;font-size: 14px;&quot;&gt;Проверка&amp;nbsp; выполнения манифестов &lt;br style=&quot;font-size: 14px;&quot;&gt;через API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="930" y="589.5" width="250" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-19" value="&lt;font color=&quot;#212121&quot; style=&quot;font-size: 14px;&quot;&gt;Ключ для доступа к&amp;nbsp; API &lt;br&gt;(&lt;/font&gt;x-auth-token&lt;span style=&quot;color: rgb(33, 33, 33); background-color: initial; font-size: 14px;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="930" y="545.5" width="250" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-20" value="Загрузка сервисного пакета в Marketplace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#87D6E8;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="400" y="760" width="290" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-22" value="&lt;font color=&quot;#212121&quot; style=&quot;font-size: 14px;&quot;&gt;Тестовое пространство имён&amp;nbsp;&lt;/font&gt;&lt;font color=&quot;#212121&quot;&gt;Marketplace&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="420" y="810" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-23" value="Проверка&amp;nbsp; выполнения манифестов через интерфейс Marketplace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="420" y="905" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-24" value="&lt;font color=&quot;#212121&quot; style=&quot;font-size: 14px;&quot;&gt;Сервисный ключ (&lt;/font&gt;x-service-token&lt;span style=&quot;color: rgb(33, 33, 33); background-color: initial; font-size: 14px;&quot;&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="420" y="857" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-25" value="Публикация сервиса" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#87D6E8;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="785" width="290" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-26" value="Модерация сервисного пакета" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="833" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-27" value="Сервис в открытом пространстве имён Marketplace" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="881" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-29" value="Сервис доступен потребителям" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="930" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-30" value="&lt;font color=&quot;#212121&quot; style=&quot;font-size: 14px;&quot;&gt;Проверка&amp;nbsp; мастера конфигурации тарифных планов&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="420" y="955" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-31" value="Условные обозначения" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=VK Sans Display;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="672.5" y="260" width="425" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-33" value="Обязательный этап" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#87D6E8;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="672.5" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-34" value="Рекомендуемый этап" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="897.5" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-41" value="Локальное тестирование манифестов" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#F6F7F9;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="570" y="437" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-42" value="Портал самообслуживания" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="590" y="499.5" width="250" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-43" value="Проверка&amp;nbsp; выполнения манифестов с локальным Terraform" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="590" y="592.5" width="250" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PDJFg9nuFnRA2sEuuT68-44" value="Учётные данные аккаунта&amp;nbsp; Платформы" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="590" y="547" width="250" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s0gbGOqSjbzBinY51gXq-1" value="Публикация образа сервиса" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#87D6E8;spacing=10;verticalAlign=top;spacingTop=0;spacingLeft=0;spacingRight=0;fontStyle=1;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="740" y="805" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="s0gbGOqSjbzBinY51gXq-2" value="Получение ID публичного образа сервиса" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="760" y="855" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YERzbyNNslxQnLcJjvSw-1" value="Загрузка сервисного пакета с ID публичного образа сервиса" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=VK Sans Display;strokeColor=none;arcsize=12;fillColor=#FFFFFF;spacing=0;spacingTop=12;spacingBottom=12;arcSize=12;absoluteArcSize=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="760" y="905" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HceFo1Y30ldUBX7yADPy-1" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=open;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="PDJFg9nuFnRA2sEuuT68-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="909.9999999999998" y="543.5" as="sourcePoint" />
+            <mxPoint x="714.6600000000001" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HceFo1Y30ldUBX7yADPy-2" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=1;strokeColor=#7C8A9A;endFill=0;arcsize=8;startArrow=open;startFill=0;strokeWidth=2;arcSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PDJFg9nuFnRA2sEuuT68-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.5799999999998" y="980" as="sourcePoint" />
+            <mxPoint x="1054.9999999999998" y="647" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="545" y="700" />
+              <mxPoint x="1055" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HceFo1Y30ldUBX7yADPy-3" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=open;startFill=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s0gbGOqSjbzBinY51gXq-1" target="PDJFg9nuFnRA2sEuuT68-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="700" as="sourcePoint" />
+            <mxPoint x="1120" y="840" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HceFo1Y30ldUBX7yADPy-4" value="" style="endArrow=none;html=1;fontFamily=VK Sans Display;fontColor=#212121;rounded=0;strokeColor=#7C8A9A;endFill=0;strokeWidth=2;arcSize=8;startArrow=open;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="PDJFg9nuFnRA2sEuuT68-25" target="s0gbGOqSjbzBinY51gXq-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541.5699999999997" y="2143" as="sourcePoint" />
+            <mxPoint x="541.5699999999997" y="2103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

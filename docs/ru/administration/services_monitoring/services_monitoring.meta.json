@@ -1,0 +1,14 @@
+{
+  "title": "Мониторинг",
+  "shortDescription": "",
+  "metaDescription": "Мониторинг",
+  "sectionTitle": "Мониторинг",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box",
+      "go"
+    ]
+  },
+  "uuid": ""
+}

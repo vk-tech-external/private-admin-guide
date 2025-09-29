@@ -1,0 +1,13 @@
+{
+  "title": "Магазин приложений Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Магазин приложений Marketplace",
+  "sectionTitle": "Магазин приложений Marketplace",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

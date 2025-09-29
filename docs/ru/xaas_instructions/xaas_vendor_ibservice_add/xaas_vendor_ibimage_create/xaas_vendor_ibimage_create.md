@@ -1,0 +1,1 @@
+# {heading(Создание образа сервиса)[id=xaas_vendor_ibimage_create]}

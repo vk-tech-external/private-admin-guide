@@ -1,0 +1,13 @@
+{
+  "title": "Локальное тестирование манифеста Terraform",
+  "shortDescription": "",
+  "metaDescription": "Локальное тестирование манифеста Terraform",
+  "sectionTitle": "Локальное тестирование манифеста Terraform",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

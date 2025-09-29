@@ -1,0 +1,15 @@
+{
+  "title": "Управление дисками",
+  "shortDescription": "",
+  "metaDescription": "Управление дисками",
+  "sectionTitle": "Управление дисками",
+  "weight": 9,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

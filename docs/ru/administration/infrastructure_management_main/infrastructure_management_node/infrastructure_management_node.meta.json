@@ -1,0 +1,15 @@
+{
+  "title": "Операции с управляющими узлами",
+  "shortDescription": "",
+  "metaDescription": "Операции с управляющими узлами",
+  "sectionTitle": "Операции с управляющими узлами",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

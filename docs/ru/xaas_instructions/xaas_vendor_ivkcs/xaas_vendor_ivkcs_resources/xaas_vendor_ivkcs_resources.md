@@ -1,0 +1,1 @@
+# {heading(Ресурсы)[id=xaas_vendor_ivkcs_resources]}

@@ -1,0 +1,13 @@
+{
+  "title": "Cloud logging (BETA)",
+  "shortDescription": "",
+  "metaDescription": "Cloud logging (BETA)",
+  "sectionTitle": "Cloud logging (BETA)",
+  "weight": 8,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

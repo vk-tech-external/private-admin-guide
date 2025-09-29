@@ -1,0 +1,13 @@
+{
+  "title": "Источники данных",
+  "shortDescription": "",
+  "metaDescription": "Источники данных",
+  "sectionTitle": "Источники данных",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

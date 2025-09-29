@@ -1,0 +1,15 @@
+{
+  "title": "Плавающие IP-адреса у ВМ",
+  "shortDescription": "",
+  "metaDescription": "Плавающие IP-адреса у ВМ",
+  "sectionTitle": "Плавающие IP-адреса у ВМ",
+  "weight": 13,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

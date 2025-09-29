@@ -1,0 +1,15 @@
+{
+  "title": "Резервное копирование",
+  "shortDescription": "",
+  "metaDescription": "Резервное копирование",
+  "sectionTitle": "Резервное копирование",
+  "weight": 15,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

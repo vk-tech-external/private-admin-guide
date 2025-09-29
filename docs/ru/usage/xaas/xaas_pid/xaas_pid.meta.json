@@ -1,0 +1,13 @@
+{
+  "title": "Управление списком проектов поставщиков image-based приложений",
+  "shortDescription": "",
+  "metaDescription": "Управление списком проектов поставщиков image-based приложений",
+  "sectionTitle": "Управление списком проектов поставщиков image-based приложений",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

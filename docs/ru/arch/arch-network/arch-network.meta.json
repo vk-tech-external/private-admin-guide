@@ -1,0 +1,14 @@
+{
+  "title": "Архитектура сети",
+  "shortDescription": "",
+  "metaDescription": "Архитектура сети",
+  "sectionTitle": "Архитектура сети",
+  "weight": 3,
+  "build": {
+    "for": [
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

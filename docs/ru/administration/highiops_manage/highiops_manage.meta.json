@@ -1,0 +1,15 @@
+{
+  "title": "Управление High-IOPS дисками",
+  "shortDescription": "",
+  "metaDescription": "Управление High-IOPS дисками",
+  "sectionTitle": "Управление High-IOPS дисками",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

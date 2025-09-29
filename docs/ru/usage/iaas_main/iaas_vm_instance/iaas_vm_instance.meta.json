@@ -1,0 +1,15 @@
+{
+  "title": "Создание экземпляра ВМ",
+  "shortDescription": "",
+  "metaDescription": "Создание экземпляра ВМ",
+  "sectionTitle": "Создание экземпляра ВМ",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

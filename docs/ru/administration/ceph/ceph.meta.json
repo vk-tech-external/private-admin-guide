@@ -1,0 +1,15 @@
+{
+  "title": "Работа с CEPH",
+  "shortDescription": "",
+  "metaDescription": "Работа с CEPH",
+  "sectionTitle": "Работа с CEPH",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "go",
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

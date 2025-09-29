@@ -1,0 +1,13 @@
+{
+  "title": "Обновление SaaS-приложения",
+  "shortDescription": "",
+  "metaDescription": "Обновление SaaS-приложения",
+  "sectionTitle": "Обновление SaaS-приложения",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Загрузка image-based приложения в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Загрузка image-based приложения в Marketplace",
+  "sectionTitle": "Загрузка image-based приложения в Marketplace",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}
