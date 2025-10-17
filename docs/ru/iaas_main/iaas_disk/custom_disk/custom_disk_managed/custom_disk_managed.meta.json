@@ -1,0 +1,14 @@
+{
+  "title": "Управление дисками внешней СХД",
+  "shortDescription": "",
+  "metaDescription": "Управление дисками внешней СХД",
+  "sectionTitle": "Управление дисками внешней СХД",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Тестирование сервиса в Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Тестирование сервиса в Marketplace",
+  "sectionTitle": "Тестирование сервиса в Marketplace",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

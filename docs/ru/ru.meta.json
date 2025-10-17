@@ -1,0 +1,21 @@
+{
+  "title": "Руководство администратора",
+  "variables": {
+    "system": "Private Cloud",
+    "sys": "Private Cloud",
+    "sys1": "Платформа",
+    "sys2": "Платформы",
+    "sys3": "Платформе",
+    "sys4": "Платформу",
+    "sys5": "Платформой",
+    "sys6": "Платформе",
+    "system_go": "Private Cloud от VK",
+    "sys_go": "Private Cloud от VK",
+    "sys1_go": "Система",
+    "sys2_go": "Системы",
+    "sys3_go": "Системе",
+    "sys4_go": "Систему",
+    "sys5_go": "Системой",
+    "sys6_go": "Системе"
+  }
+}

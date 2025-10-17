@@ -1,0 +1,16 @@
+{
+  "title": "Управление сетями",
+  "shortDescription": "",
+  "metaDescription": "Управление сетями",
+  "sectionTitle": "Управление сетями",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

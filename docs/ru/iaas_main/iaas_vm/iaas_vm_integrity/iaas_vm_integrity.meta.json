@@ -1,0 +1,16 @@
+{
+  "title": "Контроль целостности ВМ",
+  "shortDescription": "",
+  "metaDescription": "Контроль целостности ВМ",
+  "sectionTitle": "Контроль целостности ВМ",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

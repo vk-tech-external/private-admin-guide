@@ -1,0 +1,16 @@
+{
+  "title": "Основные команды командной строки OpenStack",
+  "shortDescription": "",
+  "metaDescription": "Основные команды командной строки OpenStack",
+  "sectionTitle": "Основные команды командной строки OpenStack",
+  "weight": 12,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

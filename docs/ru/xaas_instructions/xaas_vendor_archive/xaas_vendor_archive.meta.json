@@ -1,0 +1,14 @@
+{
+  "title": "Перенос image-based приложения в архив",
+  "shortDescription": "",
+  "metaDescription": "Перенос image-based приложения в архив",
+  "sectionTitle": "Перенос image-based приложения в архив",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

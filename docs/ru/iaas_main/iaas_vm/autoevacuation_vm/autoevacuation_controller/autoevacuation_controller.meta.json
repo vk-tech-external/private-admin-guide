@@ -1,0 +1,14 @@
+{
+  "title": "Обзор Evacuation Controller",
+  "shortDescription": "",
+  "metaDescription": "Обзор Evacuation Controller",
+  "sectionTitle": "Обзор Evacuation Controller",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

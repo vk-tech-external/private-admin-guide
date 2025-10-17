@@ -1,0 +1,16 @@
+{
+  "title": "Работа с узлами для кластеров Ceph",
+  "shortDescription": "",
+  "metaDescription": "Работа с узлами для кластеров Ceph",
+  "sectionTitle": "Работа с узлами для кластеров Ceph",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

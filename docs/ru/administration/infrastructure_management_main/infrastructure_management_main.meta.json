@@ -1,0 +1,16 @@
+{
+  "title": "Управление инфраструктурой",
+  "shortDescription": "",
+  "metaDescription": "Управление инфраструктурой",
+  "sectionTitle": "Управление инфраструктурой",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

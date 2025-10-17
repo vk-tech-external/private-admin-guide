@@ -1,0 +1,14 @@
+{
+  "title": "Миграция ВМ между гипервизорами",
+  "shortDescription": "",
+  "metaDescription": "Миграция ВМ между гипервизорами",
+  "sectionTitle": "Миграция ВМ между гипервизорами",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

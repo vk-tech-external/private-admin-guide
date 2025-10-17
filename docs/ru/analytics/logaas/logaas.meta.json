@@ -1,0 +1,14 @@
+{
+  "title": "Cloud Logging",
+  "shortDescription": "",
+  "metaDescription": "Cloud Logging",
+  "sectionTitle": "Cloud Logging",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

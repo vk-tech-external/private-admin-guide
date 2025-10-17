@@ -1,0 +1,14 @@
+{
+  "title": "Сервис BFF",
+  "shortDescription": "",
+  "metaDescription": "Сервис BFF",
+  "sectionTitle": "Сервис BFF",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

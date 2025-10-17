@@ -1,0 +1,14 @@
+{
+  "title": "Ресурсы",
+  "shortDescription": "",
+  "metaDescription": "Ресурсы",
+  "sectionTitle": "Ресурсы",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

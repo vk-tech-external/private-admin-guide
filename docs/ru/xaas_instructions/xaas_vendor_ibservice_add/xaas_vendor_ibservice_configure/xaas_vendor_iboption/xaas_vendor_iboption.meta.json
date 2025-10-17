@@ -1,0 +1,14 @@
+{
+  "title": "YAML-файл тарифной опции",
+  "shortDescription": "",
+  "metaDescription": "YAML-файл тарифной опции",
+  "sectionTitle": "YAML-файл тарифной опции",
+  "weight": 5,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

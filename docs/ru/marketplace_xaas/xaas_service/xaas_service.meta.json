@@ -1,0 +1,14 @@
+{
+  "title": "Управление сервисами Marketplace",
+  "shortDescription": "",
+  "metaDescription": "Управление сервисами Marketplace",
+  "sectionTitle": "Управление сервисами Marketplace",
+  "weight": 11,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

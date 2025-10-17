@@ -1,0 +1,16 @@
+{
+  "title": "Доступ к интерфейсам",
+  "shortDescription": "",
+  "metaDescription": "Доступ к интерфейсам",
+  "sectionTitle": "Доступ к интерфейсам",
+  "weight": 3,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Подготовка образа диска ВМ для загрузки в {var(sys4_go)}",
+  "shortDescription": "",
+  "metaDescription": "Подготовка образа диска ВМ для загрузки в {var(sys4_go)}",
+  "sectionTitle": "Подготовка образа диска ВМ для загрузки в {var(sys4_go)}",
+  "weight": 14,
+  "build": {
+    "for": [
+      "cer"
+    ]
+  },
+  "uuid": ""
+}

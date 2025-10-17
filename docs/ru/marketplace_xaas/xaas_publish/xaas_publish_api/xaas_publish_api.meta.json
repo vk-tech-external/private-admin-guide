@@ -1,0 +1,13 @@
+{
+  "title": "Публикация сервиса в Marketplace с помощью API",
+  "shortDescription": "",
+  "metaDescription": "Публикация сервиса в Marketplace с помощью API",
+  "sectionTitle": "Публикация сервиса в Marketplace с помощью API",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box"
+    ]
+  },
+  "uuid": ""
+}

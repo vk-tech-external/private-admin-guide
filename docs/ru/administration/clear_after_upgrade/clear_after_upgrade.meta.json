@@ -1,0 +1,15 @@
+{
+  "title": "Очистка образов после обновления {var(sys2)}",
+  "shortDescription": "",
+  "metaDescription": "Очистка образов после обновления {var(sys2)}",
+  "sectionTitle": "Очистка образов после обновления {var(sys2)}",
+  "weight": 7,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

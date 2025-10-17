@@ -1,0 +1,16 @@
+{
+  "title": "Настройка приватной сети",
+  "shortDescription": "",
+  "metaDescription": "Настройка приватной сети",
+  "sectionTitle": "Настройка приватной сети",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

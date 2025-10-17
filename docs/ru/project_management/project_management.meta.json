@@ -1,0 +1,16 @@
+{
+  "title": "Управление проектами",
+  "shortDescription": "",
+  "metaDescription": "Управление проектами",
+  "sectionTitle": "Управление проектами",
+  "weight": 4,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "cer",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

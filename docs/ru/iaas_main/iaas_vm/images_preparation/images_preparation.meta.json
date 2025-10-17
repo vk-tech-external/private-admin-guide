@@ -1,0 +1,15 @@
+{
+  "title": "Подготовка образа диска ВМ для загрузки на {var(sys4)}",
+  "shortDescription": "",
+  "metaDescription": "Подготовка образа диска ВМ для загрузки на {var(sys4)}",
+  "sectionTitle": "Подготовка образа диска ВМ для загрузки на {var(sys4)}",
+  "weight": 6,
+  "build": {
+    "for": [
+      "box",
+      "gov",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

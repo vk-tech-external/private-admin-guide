@@ -1,0 +1,14 @@
+{
+  "title": "Этапы загрузки сервиса",
+  "shortDescription": "",
+  "metaDescription": "Этапы загрузки сервиса",
+  "sectionTitle": "Этапы загрузки сервиса",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

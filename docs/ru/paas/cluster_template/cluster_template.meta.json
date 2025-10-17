@@ -1,0 +1,14 @@
+{
+  "title": "Шаблоны кластера Kubernetes",
+  "shortDescription": "",
+  "metaDescription": "Шаблоны кластера Kubernetes",
+  "sectionTitle": "Шаблоны кластера Kubernetes",
+  "weight": 2,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}

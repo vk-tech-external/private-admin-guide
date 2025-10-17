@@ -1,0 +1,14 @@
+{
+  "title": "Манифест Terraform",
+  "shortDescription": "",
+  "metaDescription": "Манифест Terraform",
+  "sectionTitle": "Манифест Terraform",
+  "weight": 1,
+  "build": {
+    "for": [
+      "box",
+      "pg"
+    ]
+  },
+  "uuid": ""
+}
